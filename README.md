@@ -1,2 +1,2 @@
 # raspPiConfig
-Needed documentations for personal pi configs
+Needed documentations for personal robot pi configs.
